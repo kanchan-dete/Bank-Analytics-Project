@@ -26,4 +26,6 @@ This project focuses on analyzing bank customer and loan datasets to uncover ins
 - dashboards/ → Power BI & Excel dashboards  
 - scripts/ → SQL queries  
 
+## Note
+- The dataset is too large to preview on GitHub. Please download the raw file to view the data.
 ---
