@@ -47,22 +47,7 @@ The dashboards track and analyze the following KPIs:
 - Data Quality Issues  
 - Regulatory Compliance  
 - Cybersecurity Risks  
-- Scalability & Integration  
-
----
-## 📂 Dashboard
-
-## 📸 Excel Dashboard Preview
-![Excel Dashboard](images/excel_dashboard.png)
-
-👉 [Download Excel Dashboard (Google Drive)](https://docs.google.com/spreadsheets/d/1J7Pa13-d8_xPXuHUrgNFJsL6_2bJYD-K/edit?usp=drive_link&ouid=117499505863220155343&rtpof=true&sd=true)
-
----
-
-## 📊 Power BI Dashboard Preview
-![Power BI Dashboard](images/powerbi_dashboard.png)
-
-👉 [Download Power BI Dashboard (Google Drive)](https://drive.google.com/file/d/1qAStaec_VVSQ7yzXj15ZMMIDadmt9pqE/view?usp=drive_link)
+- Scalability & Integration
 
 ---
 
